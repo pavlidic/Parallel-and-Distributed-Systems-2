@@ -1,7 +1,7 @@
 # Parallel-and-Distributed-Systems-2
 
 ### Χρήση:
-Κάνουμε `make` στον φάκελο και έπειτα χρησιμοποιούμε την εντολή:
+Κάνουμε `make` στον φάκελο και έπειτα χρησιμοποιούμε την εντολή:  
 `./kNN matFile matType n d k algo nblocks/B` όπου:
 - `matFile` το αρχείο πίνακα που θέλουμε να χρησιμοποιήσουμε
 - `matType` 1 για Corel, 2 για TV, 3 για PID και 4 για features
