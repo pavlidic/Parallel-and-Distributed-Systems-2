@@ -1,6 +1,8 @@
 # Parallel-and-Distributed-Systems-2
 
-### Χρήση:
+### MPI All-kNN Με Χρήση Πίνακα Αποστάσεων Και Vantage Point Tree
+
+#### Χρήση:
 Κάνουμε `make` στον φάκελο και έπειτα χρησιμοποιούμε την εντολή:  
 `./kNN matFile matType n d k algo nblocks/B` όπου:
 - `matFile` το αρχείο πίνακα που θέλουμε να χρησιμοποιήσουμε
